@@ -5,7 +5,7 @@ Aquest projecte consisteix en una plataforma de gestió immobiliària integral p
 * **Backend:** Arquitectura REST robusta amb **Spring Boot**.
 * **Frontend:** Interfície dinàmica amb estètica **Glassmorphism** i disseny adaptatiu.
 * **Dades:** Persistència amb **JPA** i base de dades **H2**.
-* **GITHUB:** https://marcmonfort120-9324369.postman.co/workspace/Marc-Djmon's's-Workspace~bb6c36ef-565c-4a1b-8f1d-805f61527660/collection/51389689-2d43337c-1e15-4bbf-83cd-39849afc298d?action=share&creator=51389689&active-environment=51389689-db37398e-5da7-4a7b-a25f-ffa5b2e1876a
+* **GITHUB:** https://github.com/dj2026/MarcApartment2026v3
 ---
 
 ## 💻 2. Implementació del Backend (Controllers)
