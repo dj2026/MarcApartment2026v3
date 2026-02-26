@@ -59,7 +59,7 @@ Durant el desenvolupament de la PRA#02 m'he trobat amb diversos problemes tècni
 > **Nota sobre les dades:** Per a la població inicial, he utilitzat exemples realistes basats en la meva pròpia experiència amb un duplex i una casa, assegurant que els preus i superfícies tinguin sentit en un entorn real.
 
 
-## Screenshots de Postman
+## Screenshots de Postman (link: https://marcmonfort120-9324369.postman.co/workspace/Marc-Djmon's's-Workspace~bb6c36ef-565c-4a1b-8f1d-805f61527660/collection/51389689-2d43337c-1e15-4bbf-83cd-39849afc298d?action=share&creator=51389689&active-environment=51389689-db37398e-5da7-4a7b-a25f-ffa5b2e1876a)
 **GET all owners**
 ![GET all owners](postman/postman_get_owners.webp)
 
